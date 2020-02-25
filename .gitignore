@@ -3,6 +3,7 @@
 *.py[cod]
 .DS_Store
 **/*.pyc
+.idea
 
 # Previous Versions
 /Jan_2020_words
